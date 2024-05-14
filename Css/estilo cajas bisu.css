@@ -1,0 +1,66 @@
+h1{font-size: 80pt; 
+font-family:family, papernotes, sans-serif;
+letter-spacing:8px;
+opacity: 80%;
+color: #380140;
+margin-top: 10px;
+text-align:center;}
+
+h2{font-size:18pt;
+color: #581259;
+font-family:sans-serif;}
+
+h4{font-size:12pt;
+color: #581259;
+font-family:sans-serif;}
+
+p{
+text-align:center;
+font-family:sans-serif;
+font-size: 15pt;
+color: #333333;
+}
+
+#encabezado{
+width:auto;
+margin: 0.5%;
+padding: 0.1%;
+background-color: #d7b0d2;
+text-align: center;}
+
+.jumbotron{
+background-image:url("bisutería.jpg");
+background-size:300px;
+margin: 0.5%;}
+
+/*elementos de los botones*/
+
+
+.imagen{
+border: medium solid #FFFFFF;}
+.imagen:hover{
+	border: medium solid #581259;
+}
+
+/*elementos caja4*/
+#caja4{
+width: auto;}
+
+.regreso{ width: 40px;}
+
+.botonr{display: flex;
+justify-content: center;
+align-items: center;}
+
+.pie{ 
+width:auto;
+margin: 0.5%;
+padding: 0.1%;
+background-color: #d7b0d2;
+text-align: center;}
+
+.botones{display: flex;
+justify-content: center;
+	align-items: center;
+border-bottom-color: #4D503F;
+}

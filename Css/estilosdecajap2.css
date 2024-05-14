@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    color: #333333;
+}
+.cabeza {
+    background-color: #f3abc2;
+    margin: auto;
+ }
+ .jumbotron {
+   background-image: url(jumbo2.jpg);
+    background-size: 300px;
+    margin: 0.5%;
+
+ }
+ h1 {
+    margin-top: 10px;
+    letter-spacing: 8px;
+    color:  #6c4675;
+    font-size:80pt ;
+    opacity: 80%;
+    font-family: family, papernotes,sans-serif;
+    text-align: center;
+ }
+
+.textoinicio {
+    justify-content: center;
+     align-items: center;
+     text-align: center;
+     margin: 30px;
+     margin-bottom: 40px;
+     font-size: 15pt;
+
+}
+
+.icono{ border: medium solid #FFFFFF;
+    }
+
+.icono:hover {
+        border: medium solid #581259;
+}
+h3 {
+    
+    color: #581259;
+}
+h5 {
+
+    color: #581259;
+}
+
+
+ 
